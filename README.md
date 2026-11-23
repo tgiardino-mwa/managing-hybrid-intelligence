@@ -9,7 +9,7 @@ Managing Hybrid Intelligence is an independently developed management doctrine f
 
 The two free resources are designed to work together with an organization-approved AI assistant to support responsible work redesign, governance, and employee participation. You can also use both publications without AI.
 
-**[Start here](START-HERE.md)** · **[Official resource introduction](https://myworkforceagents.ai/start-here)** · **[Publication details](RESOURCES.md)**
+**[Start here](START-HERE.md)** · **[Official resource introduction](https://myworkforceagents.ai/start-here?utm_source=github&utm_medium=referral&utm_campaign=mhi_resource_library)** · **[Publication details](RESOURCES.md)**
 
 ## Read the two free resources
 
