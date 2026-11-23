@@ -7,6 +7,8 @@ Dr. Timothy J. Giardino · myWorkforceAgents.ai
 
 Managing Hybrid Intelligence is an independently developed management doctrine for designing and governing work performed by people and digital labor. These resources help leaders and employees examine how AI changes work, preserve human judgment, and establish accountable operating arrangements.
 
+The two free resources are designed to work together with an organization-approved AI assistant to support responsible work redesign, governance, and employee participation. You can also use both publications without AI.
+
 **[Start here](START-HERE.md)** · **[Official resource introduction](https://myworkforceagents.ai/start-here)** · **[Publication details](RESOURCES.md)**
 
 ## Read the two free resources
@@ -24,7 +26,7 @@ For the latest publisher editions, visit the [TRAIT publication page](https://my
 
 TRAIT helps an organization examine its governance and the design of work. The Employee Guide helps the people doing that work understand their responsibilities, ask practical questions, and participate in decisions that affect them.
 
-Organizations can begin with these free resources and their existing approved tools without purchasing new technology or consulting services. The resources can also be read and discussed without an AI assistant. Implementation still requires time, appropriate support, and accountable human decisions.
+Organizations can begin with these free resources and their existing approved tools without purchasing new technology or consulting services. Implementation still requires time, appropriate support, and accountable human decisions.
 
 If your organization permits it, use both publications with an organization-approved AI assistant to explore a fictional example or prepare questions about one workflow. Confirm what the assistant says against the source documents. The [getting started guide](START-HERE.md) provides a suggested exercise.
 
