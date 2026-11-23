@@ -1,6 +1,6 @@
 # Publication records
 
-The repository contains the following November 2026 publications. The copies were retrieved from their official publisher pages on November 22, 2026. Their PDF contents are unchanged; filenames have been standardized for use on GitHub.
+The repository contains the following November 2026 publications. The PDFs are preserved as supplied for this repository, with standardized filenames. Each record identifies the included copy and its official publication page.
 
 ## The Responsible AI Transition Framework
 
@@ -11,6 +11,7 @@ The repository contains the following November 2026 publications. The copies wer
 - **Publication version:** 2.1.
 - **Revision date stated in the document:** November 1, 2026.
 - **PDF length:** 152 pages.
+- **Repository copy:** Author-supplied PDF. Its extracted text matches the TRAIT copy in the launch kit.
 - **[Read the included PDF](publications/TRAIT_Framework_November_2026_v2_1.pdf).**
 - **[Visit the official publication page](https://myworkforceagents.ai/ai-transition-framework).**
 
@@ -24,6 +25,7 @@ Publication metadata appears on PDF page 2. Publication rights appear on PDF pag
 - **Publication version:** 1.2.
 - **Edition:** November 2026. The document status states that it was prepared for November 1, 2026 release.
 - **PDF length:** 33 pages.
+- **Repository copy:** Matches the launch-kit PDF retrieved from the publisher on November 22, 2026, byte for byte.
 - **[Read the included PDF](publications/Working_With_Digital_Labor_November_2026_v1_2.pdf).**
 - **[Visit the official publication page](https://myworkforceagents.ai/employee-digital-labor-fm).**
 
