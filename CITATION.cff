@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: >-
+  The preferred citation below is for the TRAIT Framework.
+  If you use the Employee Guide, cite that publication separately
+  using the guidance in CITATION.md.
+title: "Managing Hybrid Intelligence Public Resource Library"
+version: "1.0.0"
+authors:
+  - family-names: "Giardino"
+    given-names: "Timothy J."
+url: "https://myworkforceagents.ai/start-here"
+preferred-citation:
+  type: report
+  title: "The Responsible AI Transition (TRAIT) Framework"
+  authors:
+    - family-names: "Giardino"
+      given-names: "Timothy J."
+  version: "2.1"
+  year: 2026
+  url: "https://myworkforceagents.ai/ai-transition-framework"
