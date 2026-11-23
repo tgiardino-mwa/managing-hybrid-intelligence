@@ -15,8 +15,8 @@ The two free resources are designed to work together with an organization-approv
 
 | Resource | What it helps readers examine | Included edition |
 | --- | --- | --- |
-| [The Responsible AI Transition (TRAIT) Framework](publications/TRAIT_Framework_November_2026_v2_1.pdf) | Organizational readiness, governance, work redesign, capabilities, and responsible transition. | Version 2.1, November 2026. |
-| [Working With Digital Labor](publications/Working_With_Digital_Labor_November_2026_v1_2.pdf) | Employee roles, AI collaboration, judgment, learning, and participation in changes to work. | Version 1.2, November 2026. |
+| [The Responsible AI Transition (TRAIT) Framework](https://github.com/tgiardino-mwa/managing-hybrid-intelligence/releases/download/v1.0.0/TRAIT_Framework_NOV_2026_Update.pdf) | Organizational readiness, governance, work redesign, capabilities, and responsible transition. | Version 2.1, November 2026. |
+| [Working With Digital Labor](https://github.com/tgiardino-mwa/managing-hybrid-intelligence/releases/download/v1.0.0/Working_With_Digital_Labor_Employee_Guide_NOV_2026_Update.pdf) | Employee roles, AI collaboration, judgment, learning, and participation in changes to work. | Version 1.2, November 2026. |
 
 These are complete PDF copies of the editions listed above. The GitHub introduction and navigation are in Markdown. Full Markdown transcriptions of the publications are not included.
 
